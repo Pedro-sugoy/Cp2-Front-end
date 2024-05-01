@@ -1,0 +1,49 @@
+.Logo {
+    background-color: black;
+    text-align: center;
+}
+
+.Logo1 {
+    background-color: black;
+}
+
+#Nomepousada {
+    text-align: center;
+}
+
+#Sobre1 {
+    text-align: center;
+}
+
+#Localizacao {
+    text-align: center;
+}
+
+#imagens {
+    display: inline-block;
+}
+
+.container2{
+    display:flex;
+}
+
+#ajuda{
+    text-align: center;
+}
+
+#servicos {
+    display: flex;
+}
+
+#galeria{
+    display: flex;
+}
+
+#localizacao{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
